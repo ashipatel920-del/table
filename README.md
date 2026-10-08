@@ -1,2 +1,2 @@
 # table
-this is our third project we created table in html 
+It is my third project, I have created a table using HTML. 
